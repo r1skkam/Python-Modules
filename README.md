@@ -36,3 +36,12 @@ print(math.__dict__)
 ```
 
 ![image](https://github.com/r1skkam/Python-Modules/assets/58542375/a9222a88-e90a-486c-97ee-d2a6bd64efab)
+
+### platform
+
+```
+import platform
+platform.architecture()
+```
+
+![image](https://github.com/r1skkam/Python-Modules/assets/58542375/58eb2a80-7e4a-4db5-b243-39ad3353674e)
